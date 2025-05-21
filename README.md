@@ -99,7 +99,7 @@ Test coverage includes:
 
 ## 🧠 Technologies Used
 
-- **C# .NET 8 – Core logic and Web API
+- **C# .NET 8** – Core logic and Web API
 - **React + TypeScript** – UI rendering and interaction
 - **Axios** – HTTP communication
 - **xUnit** – Unit testing
